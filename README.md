@@ -1,5 +1,8 @@
 # Cricket Workload Monitor
 
+[Open the Live App](https://cricket-workload-monitor-xrzb4dcox9bw5h78wmc4us.streamlit.app/)
+
+A Streamlit data science dashboard for exploring cricket player workload, bowling volume, recovery factors, and reported pain patterns.
 A Streamlit data science dashboard for exploring cricket player workload, bowling volume, recovery factors, and reported pain patterns.
 
 ## Project Overview
